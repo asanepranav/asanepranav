@@ -45,30 +45,6 @@ I'm open to **remote roles** and **freelance projects** in GenAI engineering, ML
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asanepranav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/asanepranav)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asanepranav&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/asanepranav)
-
-[![Streak](https://streak-stats.demolab.com?user=asanepranav&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=asanepranav&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asanepranav&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-![Snake](https://raw.githubusercontent.com/asanepranav/asanepranav/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake](https://raw.githubusercontent.com/asanepranav/asanepranav/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
----
-
 ## Projects worth your time
 
 ### 🧠 [Text-to-SQL Fine-Tuned LLM](https://github.com/asanepranav/tinyllama-text2sql)
