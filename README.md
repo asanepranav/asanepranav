@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&width=600&lines=Hey%2C+I'm+Pranav+%F0%9F%91%8B;AI%2FML+Engineer;LLM+Pipelines+%7C+Agents+%7C+RAG+Systems;Open+to+remote+roles+%26+freelance)
 
-![Profile Views](https://komarev.com/ghpvc/?username=asanepranav&color=2196F3&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
