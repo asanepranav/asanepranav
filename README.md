@@ -55,10 +55,10 @@ LangGraph StateGraph with 5 specialist nodes — profiler → stats → viz → 
 
 `LangGraph` `Groq` `LLaMA 3.3` `Pandas` `Matplotlib`
 
-### 🔬 [Multi-Agent Research System](https://github.com/asanepranav/multi-agent-research-system)
-Supervisor + 3 specialist agents (search, analyst, writer) producing full research reports from a single query. Fully local with Ollama — zero API cost. Live per-node execution trace in Streamlit UI.
+### 📊 [Bi-Copilot](https://github.com/asanepranav/bi-copilot)
+AI-powered business intelligence assistant that lets you talk to your database in plain English. Built on a LangGraph multi-agent pipeline — ask a question, get SQL, a chart, and an AI-written insight, all in one flow.
 
-`LangGraph` `Ollama` `Tavily` `Streamlit` `llama3.2`
+`LangGraph` `Postgresql` `Groq` `Streamlit` `llm`
 
 ### 📊 [Dynamic Pricing ML Engine](https://github.com/asanepranav/dynamic-pricing-model)
 XGBoost + LightGBM on 100K+ real Olist orders. 8 engineered features, SHAP explainability, 34% RMSE improvement over baseline. Revenue impact simulation included.
